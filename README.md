@@ -1,5 +1,4 @@
-Modification of the original project https://github.com/pprasse/diyBMS_CurrentVoltage_ADS1115
-Not tested
+Not tested, Modification of the original project https://github.com/pprasse/diyBMS_CurrentVoltage_ADS1115
 ----------
 
 # diyBMS_CurrentVoltage_ADS1115
