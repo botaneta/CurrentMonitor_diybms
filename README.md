@@ -1,3 +1,7 @@
+Modification of the original project https://github.com/pprasse/diyBMS_CurrentVoltage_ADS1115
+Not tested
+----------
+
 # diyBMS_CurrentVoltage_ADS1115
 
 Isolated current and isolated voltage sensor for up to 850V & 200A based on ADS1115 and attiny1614 with isolated RS485 / MODBUS. (based on https://github.com/stuartpittaway/diyBMS-CurrentShunt)
